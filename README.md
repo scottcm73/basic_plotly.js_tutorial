@@ -1,6 +1,6 @@
 
 
-###Basic Plotly.js Tutorial
+# Basic Plotly.js Tutorial
 
 This tutorial covers the very basics of using plotly.js for producing plots. In order to run the HTML locally, you will need a local HTTP server. I recommend using the one that comes with python 3.7 and above, http.server.
 
